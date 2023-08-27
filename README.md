@@ -34,14 +34,14 @@ C 语言是一种通用的、面向过程式的计算机程序设计语言。由
 #include <stdio.h>
 
 int main(int argc, char *argv[]){
-    printf("Hello World!!\n");
+    printf("Hello World!\n");
     return 0;
 }
 ```
 
 C语言的本质是令牌语言：关键字、标识符、常量、字符串值、符号等令牌组成。
 
-一条语句的拆解：`printf` `(` `"Hello World!!\n"` `)` `;`
+一条语句的拆解：`printf` `(` `"Hello World!\n"` `)` `;`
 
 ### 标识符（变量）命名规则
 
